@@ -3,6 +3,8 @@
 -----------------------
 Browny is a one page bootstrap 3 based resume/portfolio template.
 
+Link to page : https://sara-kent.github.io/portfolio-3/
+
 
 Template Info:
 -----------------------
